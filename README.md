@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A Pre Final Year Mechanical Engineering Student, who is currently participating in different Machine Learning Hackathons and looking forward to collaborate in open source projects</h3>
 
@@ -17,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-k-467315197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-k-467315197/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gauravkumar008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gauravkumar008" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav-k-467315197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-k-467315197" height="30" width="40" /></a>
+<a href="https://kaggle.com/gauravkumar008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gauravkumar008" height="30" width="40" /></a>
 <a href="https://medium.com/@gaurav-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaurav-kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gauravkumar2k191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gauravkumar2k191" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gauravkumar2k191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravkumar2k191" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
