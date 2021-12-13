@@ -6,7 +6,7 @@
 <h3 align="center">A Pre Final Year Mechanical Engineering Student, who is currently participating in different Machine Learning Hackathons and looking forward to collaborate in open source projects</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav1401" alt="gaurav1401" /></a> </p>
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Gaurav1401/github-readme-stats)
 
 <img align = 'right' alt = 'Coding' width = 400 src = "https://media1.giphy.com/media/ZgBHqRyBXetos/giphy.gif" />
 
