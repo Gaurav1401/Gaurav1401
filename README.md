@@ -3,7 +3,7 @@
 ![Banner](Header/header.png)
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">A Pre Final Year Mechanical Engineering Student, who is currently participating in different Machine Learning Hackathons and looking forward to collaborate in open source projects</h3>
+<h3 align="center">A Final Year Mechanical Engineering Student, who has worked on multiple projects and is having internship experience too</h3>
 
 
 [![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Gaurav1401/github-readme-stats)
